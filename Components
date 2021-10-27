@@ -1,0 +1,9 @@
+BUTTON [DONE]
+INPUT [DONE]
+SELECT [] - Anthony
+ -- options = prop
+ -- emit = selected value
+TEXTAREA [] - Pat
+
+FUTURE:
+FILE UPLOAD []
